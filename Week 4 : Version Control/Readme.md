@@ -3,6 +3,6 @@
 ### Junior Devs Team Member
 
 - Anthony Gray
-- Nishan
+- Nishan Devkar
 - Trung
 - William
