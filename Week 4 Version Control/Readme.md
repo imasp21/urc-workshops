@@ -6,3 +6,7 @@
 - Nishan
 - Trung
 - William
+
+### Team Lead
+
+- Arjun Panicker
