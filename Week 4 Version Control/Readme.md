@@ -5,7 +5,7 @@
 - Anthony Gray
 - Nishan Devkar
 - Trung Pham
-- William
+- William Craig
 
 ### Team Lead
 
