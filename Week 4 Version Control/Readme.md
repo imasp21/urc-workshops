@@ -5,8 +5,8 @@
 - Anthony Gray
 - Nishan Devkar
 - Trung Pham 2027
-- William Craig
+- William Craig 
 
 ### Team Lead
 
-- Arjun Panicker
+- Arjun Panicker 2022
