@@ -1,1 +1,8 @@
-### Week 4 : Version Control
+## Week 4 : Version Control
+
+### Junior Devs Team Member
+
+- Anthony Gray
+- Nishan
+- Trung
+- William
