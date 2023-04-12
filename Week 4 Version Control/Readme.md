@@ -5,8 +5,8 @@
 - Anthony Gray
 - Nishan Devkar
 - Trung Pham
-- William Craig
+- William Craig 
 
 ### Team Lead
 
-- Arjun Panicker
+- Arjun Panicker 2022
