@@ -4,5 +4,5 @@
 
 - Anthony Gray
 - Nishan
-- Trung
+- Trung Pham
 - William
