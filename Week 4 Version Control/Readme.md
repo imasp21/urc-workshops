@@ -4,8 +4,8 @@
 
 - Anthony Gray
 - Nishan Devkar 2024
-- Trung Pham
-- William Craig 
+- Trung Pham 2027
+- William Craig 2025
 
 ### Team Lead
 
