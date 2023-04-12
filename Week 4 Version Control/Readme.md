@@ -3,7 +3,7 @@
 ### Junior Devs Team Member
 
 - Anthony Gray
-- Nishan Devkar
+- Nishan Devkar 2024
 - Trung Pham
 - William Craig
 
