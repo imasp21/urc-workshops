@@ -3,10 +3,10 @@
 ### Junior Devs Team Member
 
 - Anthony Gray
-- Nishan
+- Nishan Devkar
 - Trung Pham
 - William Craig 2025
 
 ### Team Lead
 
-- Arjun Panicker
+- Arjun Panicker 2022
