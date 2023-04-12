@@ -5,7 +5,7 @@
 - Anthony Gray
 - Nishan
 - Trung Pham
-- William Craig
+- William Craig 2025
 
 ### Team Lead
 
