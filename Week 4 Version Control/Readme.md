@@ -5,4 +5,4 @@
 - Anthony Gray
 - Nishan
 - Trung
-- William
+- William Craig
