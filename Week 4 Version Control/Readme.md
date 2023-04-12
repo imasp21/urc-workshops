@@ -4,5 +4,9 @@
 
 - Anthony Gray
 - Nishan
-- Trung
+- Trung Pham
 - William Craig
+
+### Team Lead
+
+- Arjun Panicker
